@@ -19,5 +19,5 @@ options:
 ## 🐳 Usage - Docker
 
 ````
-docker run --rm ghcr.io/l4rm4nd/gitlab-enumerator:latest -h
+docker run --rm ghcr.io/l4rm4nd/gitlab-enum:latest -h
 ````
